@@ -12,7 +12,7 @@ I downloaded the dataset directly to my AMI via the Kaggle API, and added an add
 - Instead of using the fully connected layers of _ResNet50_, I trained a Logistic Regression Classifier using GridSearch to search over the **C** hyperparameter. 
 - The search space for **C** was _[0.1,0.01,0.001,0.0001]_, where **0.001** yielded the best results.
 
-The model had an overall pe
+The model had an **overall score of 98.864% accuracy**, with a weighted average _precision, recall_ and _F1-score_ of 99%.
 
 ---
 
