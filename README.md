@@ -11,7 +11,7 @@ I downloaded the dataset directly to my AMI via the Kaggle API, and added an add
 
 
 ## Data Pipeline:
-
+_Make sure you install all the requirements from the requirements.txt file_.
 ### 1) Extracting features using _ResNet50_:
 - After downloading the dataset, I used the _ResNet50_ model from _Keras.applications_ with _ImageNet_ weights and without the fully connected layers. 
 - The extracted feature vectors had shape (1x100352) and were saved in an HDF5 file. 
