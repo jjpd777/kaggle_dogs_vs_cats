@@ -1,7 +1,7 @@
 # Kaggle Dogs vs Cats
 ---
 
-This project comes from [Adrian Rosebrock](https://www.linkedin.com/in/adrian-rosebrock-59b8732a/) book _Deep Learning for Computer Vision_. For more information on the book, [take a look at this link.](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
+This project was based off [Adrian Rosebrock's](https://www.linkedin.com/in/adrian-rosebrock-59b8732a/) book _Deep Learning for Computer Vision_. For more information on the book, [take a look at this link.](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 
 ---
 For this project I decided to build a deep learning solution for the [Kaggle competition of Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats). The dataset consists of a total of 25,000 images, accounting for approximately 40GB of information.
