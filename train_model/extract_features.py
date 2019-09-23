@@ -89,6 +89,7 @@ for i in np.arange(0, len(imagePaths), bs):
 	# our actual features
 	batchImages = np.vstack(batchImages)
 	features = model.predict(batchImages, batch_size=bs)
+	
 
 	# reshape the features so that each image is represented by
 	# a flattened feature vector of the `MaxPooling2D` outputs
