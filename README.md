@@ -1,4 +1,6 @@
 # Kaggle Dogs vs Cats
+
+![](https://github.com/jjpd777/kaggle_dogs_vs_cats/blob/master/plotted_images.png)
 ---
 
 This project was based off [Adrian Rosebrock's](https://www.linkedin.com/in/adrian-rosebrock-59b8732a/) book _Deep Learning for Computer Vision_. For more information on the book, [take a look at this link.](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
